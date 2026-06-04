@@ -1,0 +1,22 @@
+Axis Note #1 - Data Quality Matters More Than Data Volume
+What Happened
+
+This week, Axis completed a suspicious-user auditing workflow.
+
+The system combines user statistics with replay and verification failure reasons to identify abnormal data collection behavior.
+
+Why It Matters
+
+Physical AI models depend on reliable data.
+
+If task results are distorted by bots or exploitative behavior, model evaluation and future training decisions become less accurate.
+
+By improving data quality, Axis can build more trustworthy datasets for training robotic policies.
+
+My Thoughts
+
+Many projects focus on collecting more data.
+
+Axis appears to focus on collecting better data.
+
+I believe this approach can create a stronger foundation for simulation-to-real-world learning and long-term model improvement.
